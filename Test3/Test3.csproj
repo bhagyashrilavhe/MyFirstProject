@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyFirstProject.Array.FrequencyOfEachElement</StartupObject>
+	  <StartupObject>Test3.RemoveDuplicateElement</StartupObject>
   </PropertyGroup>
 
 </Project>
