@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class FrequencyOfEachElement
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 4, 1, 3, 1, 5, 2, 4 };
 

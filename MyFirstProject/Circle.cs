@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class Circle
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             double radius = 2, area;
             double pi = 3.14;

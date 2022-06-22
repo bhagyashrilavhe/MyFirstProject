@@ -59,7 +59,7 @@ namespace MyFirstProject.Containment
         }
 
 
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             ShipmentConstructor s = new ShipmentConstructor(101, new Order(1, "Rutuja", "Baramati"), new OrderDate(06, 07, 2022));
             s.showShipmentConstructor();

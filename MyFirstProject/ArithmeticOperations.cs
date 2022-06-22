@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class ArithmeticOperations
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int num1, num2, result;
             num1 = 12;

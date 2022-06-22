@@ -32,7 +32,7 @@ namespace MyFirstProject.Containment
             set { place = value; }
         }
 
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             StudentProperty s = new StudentProperty();
             s.SId = 101;

@@ -39,7 +39,7 @@ namespace MyFirstProject.Containment
             Console.WriteLine(modelno + " " + name + " " + price + " ");
             engi.show();
         }
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             
             CarConstructor c1 = new CarConstructor(1234, "BMW",50000.0, new Engin("Disel"));

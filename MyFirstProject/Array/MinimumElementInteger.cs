@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class MinimumElementInteger
     {
-        static void Main(String [] args)
+        static void Main(string [] args)
         {
             int[] a = { 2,4,6,3,7,9,1};
             int min = a[0];

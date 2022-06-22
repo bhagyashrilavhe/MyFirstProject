@@ -25,7 +25,7 @@ namespace MyFirstProject.Inheritance
     }
     class MultilevelInheritance
     {
-        static void Main( String[] args)
+        static void Main( string[] args)
         {
             HOD h=new HOD();
             h.show();

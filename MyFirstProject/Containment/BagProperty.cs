@@ -70,7 +70,7 @@ namespace MyFirstProject.Containment
             get { return p; }
             set { p = value; }
         }
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             BagProperty b = new BagProperty();
             b.BagName = "Sack";

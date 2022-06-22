@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class Cube
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int num =4 , cube;
             Console.WriteLine("cube of number is " + num);

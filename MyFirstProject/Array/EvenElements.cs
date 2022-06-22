@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class EvenElements
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 5, 7, 2, 3, 6, 1 };
             for (int i = 0; i < a.Length; i++)

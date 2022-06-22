@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class Ractangle
     {
-        static void  Main(String[] args)
+        static void  Main(string[] args)
         {
             int l = 4, w = 2, area;
             Console.WriteLine("length of ractangle is " + l);

@@ -27,7 +27,7 @@ namespace MyFirstProject.Inheritance
     }
     class MultilevelInheritance1
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             GrandFather g = new GrandFather();
             g.Display2();

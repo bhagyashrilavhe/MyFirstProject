@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class MaximumElementInteger
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 4,5,2,6,9,10,1,7 };
             int max = a[0];

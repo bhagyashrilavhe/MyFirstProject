@@ -6,7 +6,7 @@ namespace MyFirstProject.Array._2DArray
 {
     class StarPattern
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             char[,] a = new char[4, 4];
 

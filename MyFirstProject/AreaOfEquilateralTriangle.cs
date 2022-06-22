@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class AreaOfEquilateralTriangle
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             float a=5f;
             double area;

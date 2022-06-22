@@ -38,7 +38,7 @@ namespace MyFirstProject.Containment
             dept.show();
         }
 
-        static void Main(String [] args)
+        static void Main(string [] args)
         {
             EmployeeConstructor e = new EmployeeConstructor(1, "Priya", new Department(101, "HR"));
             e.display();

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyFirstProject.Array._2DArray.ColoumSum</StartupObject>
+	  <StartupObject>MyFirstProject.StringDemo.AvgOfDigit</StartupObject>
   </PropertyGroup>
 
 </Project>

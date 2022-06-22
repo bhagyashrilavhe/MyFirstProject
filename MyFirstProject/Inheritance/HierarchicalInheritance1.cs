@@ -26,7 +26,7 @@ namespace MyFirstProject.Inheritance
     }
     class HierarchicalInheritance1
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Cricket c = new Cricket();
             Console.WriteLine("Cricket-   " + c.worldCupYear+ "  -worldCupYear");

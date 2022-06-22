@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class CharArrayCreation
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("enter the Array element : ");
 

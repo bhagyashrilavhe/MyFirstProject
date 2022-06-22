@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class MaximumElementChar
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             char[] c = { 't', 'o', 'G','Y','q' };
             char max = c[0];

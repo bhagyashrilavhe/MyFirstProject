@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class Condition
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Enter any Number");
             int num = int.Parse(Console.ReadLine());

@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class ReversOrderElements
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 5, 7, 3, 2 };
             Console.WriteLine(string.Join(" ", a));

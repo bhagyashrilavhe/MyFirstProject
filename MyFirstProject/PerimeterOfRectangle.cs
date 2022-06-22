@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class PerimeterOfRectangle
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int l = 9, w = 7, p;
             Console.WriteLine("length of ractangle is " + l);

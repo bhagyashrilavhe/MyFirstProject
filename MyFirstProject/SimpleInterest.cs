@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class SimpleInterest
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int p = 500,t = 2,r = 4,si;
             Console.WriteLine("Principal amount is " + p);

@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class SumOfArrayElements
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 1, 3, 5, 7,4};
             Console.WriteLine(string.Join(" ", a));

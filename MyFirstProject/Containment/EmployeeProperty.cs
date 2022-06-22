@@ -27,7 +27,7 @@ namespace MyFirstProject.Containment
             set { salary = value; }
         }
 
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             EmployeeProperty e = new EmployeeProperty();
             e.EId = 1;

@@ -24,7 +24,7 @@ namespace MyFirstProject.Inheritance
     }
     class SingleInheritance
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Student s = new Student();
             s.Display();

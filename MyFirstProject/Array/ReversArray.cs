@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class ReversArray
     {
-        static void Main(String [] args)
+        static void Main(string [] args)
         {
             int[] a = { 3, 9, 4, 5, 1 };
             int j = a.Length - 1;

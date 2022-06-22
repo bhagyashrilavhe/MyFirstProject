@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class UnaryOperator
     {
-       static  void Main(String[] args)
+       static  void Main(string[] args)
         {
             int x = 10;
              x++;//x=x+1;

@@ -9,7 +9,7 @@ namespace MyFirstProject.Containment
     {
         string cengin;
 
-        public String Cengin
+        public string Cengin
         {
             get { return cengin; }
             set { cengin = value; }
@@ -43,7 +43,7 @@ namespace MyFirstProject.Containment
             set { engi = value; }
         }
 
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             CarProperty c = new CarProperty();
             c.ModelNo = 1111;

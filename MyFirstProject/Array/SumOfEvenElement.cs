@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class SumOfEvenElement
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 2, 3, 8, 4, 1, 5, 10 };
             int Sum = 0;

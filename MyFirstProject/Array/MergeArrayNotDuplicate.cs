@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class MergeArrayNotDuplicate
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 1, 22, 3, 44, 5 ,22};
             int[] b = { 11, 22, 2,33, 44, 5 ,55};

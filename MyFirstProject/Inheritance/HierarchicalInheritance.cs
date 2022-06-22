@@ -22,7 +22,7 @@ namespace MyFirstProject.Inheritance
     }
     class HierarchicalInheritance
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Samsung s = new Samsung();
             Console.WriteLine("Samsung     " + s.storage + "   " + s.RAM);

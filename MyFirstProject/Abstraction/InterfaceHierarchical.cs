@@ -35,7 +35,7 @@ namespace MyFirstProject.Abstraction
 
     class InterfaceHierarchical
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             Isamsung.Mob();
             IApple.Mob();

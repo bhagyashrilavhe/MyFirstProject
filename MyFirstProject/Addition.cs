@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class Addition
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int num1, num2, sum;
             num1 = 6;

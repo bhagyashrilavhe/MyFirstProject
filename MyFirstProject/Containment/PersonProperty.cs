@@ -31,7 +31,7 @@ namespace MyFirstProject.Containment
             get { return id; }
             set { id = value; }
         }
-        public String Name
+        public string Name
         {
             get { return name; }
             set { name = value; }
@@ -42,7 +42,7 @@ namespace MyFirstProject.Containment
             set { adr= value; }
         }
 
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             PersonProperty p = new PersonProperty();
             p.Id = 11;

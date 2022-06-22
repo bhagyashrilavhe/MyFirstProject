@@ -19,7 +19,7 @@ namespace MyFirstProject.Abstraction
         {
             Console.WriteLine("Addition is  " + (IFirstable.x + Second.y));
         }
-        static void Main(String [] args)
+        static void Main(string [] args)
         {
             Addition a = new Addition();
             a.Add();

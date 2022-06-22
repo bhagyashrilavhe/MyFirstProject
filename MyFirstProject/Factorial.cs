@@ -6,7 +6,7 @@ namespace MyFirstProject
 {
     class Factorial
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             //Console.WriteLine("Enter the Number : ");
             //int number = int.Parse(Console.ReadLine());

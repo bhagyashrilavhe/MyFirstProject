@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class MergeArray
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[] a = { 1, 2, 3, 4, 5 };
             int[] b = { 11, 22, 33, 44, 55 };

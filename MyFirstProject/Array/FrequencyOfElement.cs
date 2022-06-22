@@ -6,7 +6,7 @@ namespace MyFirstProject.Array
 {
     class FrequencyOfElement
     {
-        static void Main(String [] args)
+        static void Main(string [] args)
         {
             int[] a = { 4, 1, 3, 1, 5, 1, 4 };
             Console.WriteLine("Enter Element : ");

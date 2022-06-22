@@ -6,7 +6,7 @@ namespace MyFirstProject.Array._2DArray
 {
     class AdditionOfTwoMatrix
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int[,] a1 = new int[2, 2] { { 2, 4 }, { 6, 8 } };
             int[,] a2 = new int[2, 2] { { 1, 3, }, { 5, 7 } };
