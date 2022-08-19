@@ -31,4 +31,30 @@ namespace ADO.net
             }
         }
     }
+   /* class Emp
+    {
+        public static DataSet getAllEmp()
+        {
+            SqlConnection con = null;
+
+            con = DBconnect.GetConnection();
+
+            SqlDataAdapter sda = new SqlDataAdapter("Select * from Employee", con);
+            DataSet ds = new DataSet();
+
+            sda.Fill(ds, "Employee");
+
+            return ds;
+        }
+        static void Main(string[] args)
+        {
+
+            DataSet ds = getAllEmp();
+            foreach (DataRow dr in ds.Tables["Employee"].Rows)
+            {
+                Console.WriteLine(dr[0] + " " + dr[1] + " " + dr[2]);
+                
+            }
+        }
+    }*/
 }
