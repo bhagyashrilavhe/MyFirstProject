@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ADO.net.DeleteDemo</StartupObject>
+	  <StartupObject>ADO.net.AdoDotNetTest.DisconnectedArchInserted</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
