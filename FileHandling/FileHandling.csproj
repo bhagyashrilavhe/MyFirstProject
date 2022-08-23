@@ -1,9 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>FileHandling.UsingStreamReadWrite</StartupObject>
+	  <StartupObject>FileHandling.Serialization.Assignments.BinarySeri</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SoapFormatter" Version="1.1.9" />
+    <PackageReference Include="System.Text.Json" Version="6.0.5" />
+  </ItemGroup>
 
 </Project>
