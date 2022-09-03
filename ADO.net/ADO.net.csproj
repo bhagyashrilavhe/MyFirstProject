@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ADO.net.AdoDotNetTest.DisconnectedArchInserted</StartupObject>
+	  <StartupObject>ADO.net.Assignment03_09_22.CourseInsertConn</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
